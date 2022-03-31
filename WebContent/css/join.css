@@ -1,0 +1,78 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	list-style: none;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+
+.main_container {
+	width: 100%;
+	margin: 0 auto;
+	padding-bottom: 70px;
+	margin-left: 0px;
+	justify-content: center;
+	align-items: center;
+}
+
+/* 본문 */
+.main_content {
+	text-align: center;
+	margin: auto;
+	justify-content: center;
+	align-items: center;
+}
+
+/* GAEKO 텍스트 */
+.text_container {
+	text-align: center;
+	align-items: center;
+}
+
+.main_text {
+	width: 241px;
+	height: 67px;
+	margin:auto;
+	font-family: "Roboto";
+	font-style: normal;
+	font-weight: 400;
+	font-size: 72px;
+	line-height: 84px;
+	color: #000000;
+	text-align: center;
+	align-items: center;
+}
+
+/* 회원가입 기입란 */
+.content_text {
+	font-size: 30px;
+}
+
+.search_window {
+	width: 300px;
+	height: 40px;
+	background: #ffffff;
+	mix-blend-mode: darken;
+	border: 1.5px solid #919191;
+	box-sizing: border-box;
+	border-radius: 20px;
+	text-align: center;
+}
+
+/* 버튼 */
+.SignUp_button {
+	margin-top: 40px;
+	width: 150px;
+	height: 49px;
+	background: #273e5e;
+	border: 1px solid #000000;
+	box-sizing: border-box;
+	border-radius: 80px;
+	/* font */
+	color: #ffffff;
+	font-size: 24px;
+}

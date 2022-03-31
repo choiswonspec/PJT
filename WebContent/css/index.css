@@ -1,0 +1,23 @@
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  text-align: center;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+}
+
+.main_image{
+	margin:auto;
+}
+
+.btn_service{
+	width: 200px;
+    height: 30px;
+ 	background-color: #273e5e;
+ 	margin-top : 40px;
+	color: #fff;
+	
+	border-radius: 5px;
+}
